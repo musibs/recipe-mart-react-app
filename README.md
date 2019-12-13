@@ -19,3 +19,5 @@ This application displays recipes in several caterogies. It fetches the recipe d
 ## Recipe Page
 ![Recipe Page](/src/images/app-pages/Recipe-List-Page.PNG)
 
+## Contributor
+Developed and Maintained by [Somnath Musib](https://github.com/musibs)
