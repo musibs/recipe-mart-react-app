@@ -1,0 +1,18 @@
+.card-text{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    opacity: 0;
+}
+
+.card:hover img{
+    transition: .1s ease;
+    opacity: 0.5;
+}
+
+
+.card:hover h2{
+    transition: .3s ease;
+    opacity: 1;
+    cursor: pointer;
+}

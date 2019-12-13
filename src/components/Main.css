@@ -1,0 +1,9 @@
+.Main{
+    height: 93vh;
+    background: linear-gradient(90deg, rgba(225,224,237,1) 0%, rgba(122,194,191,1) 42%, rgba(0,212,255,1) 96%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #ffffff !important;
+}

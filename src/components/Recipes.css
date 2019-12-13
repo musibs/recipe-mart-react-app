@@ -1,0 +1,28 @@
+.row{
+    margin-top: 40px !important;
+}
+
+img{
+    height: 200px !important;
+}
+
+img:hover{
+   cursor: pointer;
+}
+
+button{
+    color: aqua !important;
+}
+
+.loading{
+    padding-top: 100px;
+}
+
+.recipe-login{
+    padding-top: 100px;
+}
+
+.backbutton{
+    padding-top: 30px;
+    padding-bottom: 50px;;
+}
