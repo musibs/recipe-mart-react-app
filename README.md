@@ -6,3 +6,16 @@ This project demonstrates the usage of React, React Router and Oauth to develop 
 
 ## Application Info
 This application displays recipes in several caterogies. It fetches the recipe data from [Edamam](https://www.edamam.com/). This application also uses Auth0 to autheticate the users. 
+
+## Login Page
+![Home Page](/src/images/app-pages/Login-Page.png)
+
+## Authentication Page
+![Authentication Page](/src/images/app-pages/Auth0-Login-Page.png)
+
+## Recipe Category Page
+![Recipe Category Page](/src/images/app-pages/Recipe-Landing-Page.png)
+
+## Recipe Page
+![Recipe Page](/src/images/app-pages/Recipe-List-Page.png)
+
