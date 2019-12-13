@@ -9,7 +9,7 @@ class Auth{
     auth0 = new auth0.WebAuth({
         domain: "musibs.auth0.com",
         clientID: "aLfZvQiMfpqkVP7vTS0QxGYITVJ3tlrh",
-        redirectUri: "https://eloquent-visvesvaraya-e78194.netlify.com/callback",
+        redirectUri: "https://recipemart.netlify.com/callback",
         audience: "https://musibs.auth0.com/userinfo",
         responseType: "token id_token",
         scope: "openid profile"
