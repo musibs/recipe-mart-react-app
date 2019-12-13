@@ -33,6 +33,9 @@ function App() {
       <Route exact path="/loginFailed">
           <Main message="Login Failed. Try Again" showbutton="true" auth={auth}/>
       </Route>
+      <Route exact path="/*">
+          <Main message="404 Page Not Found" showbutton="true" auth={auth}/>
+      </Route>
   </Switch>
     </Router>
     </div>
